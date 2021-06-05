@@ -31,3 +31,14 @@ The following files are for different noise/signal sound materials. The same nam
 4-2_signal4_raw.wav  
 4-3_noise4_with_signal4_beforeANC.wav  
 4-4_noise4_with_signal4_afterANC.wav
+
+The raw sound clips used here are included in the MS-SNSD dataset (https://github.com/microsoft/MS-SNSD), which includes data from the following datasets:  
+
+Clean speech:  
+  PTDB-TUG: Pitch Tracking Database from Graz University of Technology https://www.spsc.tugraz.at/databases-and-tools/ptdb-tug-pitch-tracking-database-from-graz-university-of-technology.html; License: http://opendatacommons.org/licenses/odbl/1.0/  
+  Edinburgh 56 speaker dataset: https://datashare.is.ed.ac.uk/handle/10283/2791; License: https://datashare.is.ed.ac.uk/bitstream/handle/10283/2791/license_text?sequence=11&isAllowed=y
+
+Noise:  
+  Freesound: https://freesound.org/ Only files with CC0 licenses were selected; License: https://creativecommons.org/publicdomain/zero/1.0/  
+  Demand: https://zenodo.org/record/1227121#.XRKKxYhKiUk; License: https://creativecommons.org/licenses/by-sa/3.0/deed.en_CA
+
